@@ -6,7 +6,7 @@ I am experienced Software Engineer interested in distributed systems and overall
 
 * **[SensysGatso Group](https://www.sensysgatso.com/):** improve **performance of the cluster by 20%** 🚀 and particular services by x2-x3 times. Re-design and re-implement the live streaming service. Helping in **troubleshooting network problems** in production clusters. Mentoring and helping colleagues in achieving their goals. Being a part of **architecture and design** group where drive the evolution of the product. **Introduce distributed tracing tools** and the way to instrument the code. Day-to-day working on k8s clusters, monitoring and performance tuning.
 
-* **[Catawiki](https://www.catawiki.com/en/):** backend engineeingr, support existing and developing new services. **Advocating for Go language** in the company. Establishing the standard way to build and deploy microservices in Go. Working on a **Search and Discovery topics** helping buyers to get the most from the Platform.
+* **[Catawiki](https://www.catawiki.com/en/):** backend engineering, support existing and developing new services. **Advocating for Go language** in the company. Establishing the standard way to build and deploy microservices in Go. Working on a **Search and Discovery topics** helping buyers to get the most from the Platform.
 
 * **[HosingAnywhere](https://housinganywhere.com/):** playing a full-stack role in the growth team. Working on a payments platform and enhancing it.
 
