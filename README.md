@@ -17,7 +17,7 @@ I am experienced Software Engineer interested in distributed systems and overall
 ### Open Source
 
 * Built the CLI tool to dump, index and search across the bookmarks [go-nate](https://github.com/Neurostep/go-nate). Supporting different languages and REPL capabilities 🌠.
-* Built the CLI tool to replicate git commits from one repository to another [go-replicator](https://github.com/Neurostep/git-replicator).
+* Built the CLI tool to replicate git commits from one repository to another [git-replicator](https://github.com/Neurostep/git-replicator).
 
 ### Contact
 
