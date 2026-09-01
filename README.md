@@ -1,6 +1,8 @@
-I am experienced Software Engineer interested in distributed systems and overall systems engineering. I live in Amsterdam, Netherlands and currently work at [Scribd](https://www.scribd.com/).
+I am experienced Software Engineer interested in distributed systems and overall systems engineering. I live in Amsterdam, Netherlands and currently work at [PlanetScale](https://planetscale.com/).
 
 ### Work
+
+* **[PlanetScale](https://planetscale.com/):** building the platform for PLanetScale maanged databases offering.
 
 * **[Scribd](https://www.scribd.com/):** building infrastructure and service foundations for the next services generation. **gRPC foundations** for inter-service communications with automated client / server definitions for **Ruby and Go applications**. Create foundational, well-documented **terraform modules** for provisioning and operating infrastructure (load balancers, deployments) and application services in a cloud native environment. **Improve the observability and resilience** of our platform with instrumentation, request tracing, log correlation and runtime metrics. Terraforming configurations for **services at the Edge** (CDN, WAF and more using Fastly). **Design next generation cloud-native service mesh** to handle the north-south (Internet to Scribd) and west-east (Service to Service) traffic with capabilities such as service discovery, load balancing, encryption, improved **observability, traceability, and authentication**.
 
